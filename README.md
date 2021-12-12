@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EvgenyVenalainen
-- 👀 I’m interested in civil engeneering.
+- 👀 I’m interested in civil engineering.
 - 🌱 I’m currently learning AutoLisp.
 - 💞️ I’m looking to collaborate on AutoCAD.
 - 📫 How to reach me: ...
